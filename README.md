@@ -20,6 +20,14 @@
 
 <br/>  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LeandroArielFontana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeandroArielFontana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroArielFontana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
+<br/>  
+
+<br/>  
 
 # 💻 Tech Stack: 
 <div align="center">  
@@ -40,7 +48,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/LeandroArielFontana" target="_blank">
@@ -57,21 +64,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LeandroArielFontana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeandroArielFontana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroArielFontana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
-<br/>  
-
-  
-
-<br/>  
-
 
 ## Spotify Listening  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=leandroarielfontana&cover_image=true&theme=default&bar_color=514fb5&bar_color_cover=true" /></div>  
@@ -82,15 +75,10 @@
 <img src="https://komarev.com/ghpvc/?username=LeandroFontana&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
-
   
-
 <br/>  
-
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
