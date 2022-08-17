@@ -6,7 +6,7 @@
 ### <div align="center">I'm Leandro, a back-end developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working in G&L Group  
+- 🔭 I’m currently working at G&L Group  
   
 
 - 🌱  I’m currently learning Kubernetes and AWS  
