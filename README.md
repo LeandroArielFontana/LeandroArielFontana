@@ -2,55 +2,89 @@
   <img src="https://s4.gifyu.com/images/gwyneth-balucio-hello-world-1.gif" width="600" alt="Hello World Animation" />
 </div>  
 
-### <div align="center">👋 Hi there, I'm **Leandro Fontana** — Back-End Developer 🚀</div>  
+# 👋 Hi there, I'm **Leandro Fontana**
+### <div align="center">🚀 Back-End Developer | 🇦🇷 Based in Argentina | 🌐 Open to Remote Opportunities</div>  
 
 ---
 
-- 🔭 Currently working at **G&L Group**  
-- 🌱 Learning **Kubernetes** and **AWS (MSK, S3, EC2)**  
-- 📄 Check my experience on [LinkedIn](https://www.linkedin.com/in/leandro-ariel-fontana/)  
-- ⚡ Fun fact: I'm also a **Chemistry Technician**  
+💡 *Passionate about clean code, event-driven architectures, and scalable systems.*
 
 ---
 
 ## 🧠 About Me  
-I'm a **Full Stack Developer** with strong experience in **Java**, **Kotlin**, and **Spring Boot** for backend, and **ReactJS + TypeScript** for frontend.  
-I’ve worked building **microfrontends**, **RESTful APIs**, and **automated tests** with tools like **Docker**, **Git**, and **CI/CD pipelines**.  
+I'm a **Full Stack Developer** with strong experience in **Java**, **Kotlin**, and **Spring Boot** for back-end development, and **ReactJS + TypeScript** for front-end.  
+I build **microfrontends**, **RESTful APIs**, and **automated tests** using **Docker**, **Git**, and **CI/CD pipelines**.  
 
-I’m passionate about **software architecture** and **DevOps practices**, constantly aiming to improve scalability, maintainability, and development quality.
-
----
-
-## 💻 Tech Stack  
-<div align="center">  
-  <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="60"/></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="60"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60"/></a>
-</div>
+I’m currently expanding my knowledge in **Kubernetes** and **AWS (MSK, S3, EC2)**, aiming to design efficient and scalable distributed systems.  
+Beyond code, I’m a **Chemistry Technician**, football fan ⚽, and love Japanese culture 🇯🇵 and gaming 🎮.
 
 ---
 
-## 🧩 Certifications
-- 🎓 **AWS MSK (Amazon Managed Streaming for Kafka)** – AWS Argentina (Jul 2025)  
-- 🎓 **Docker & Containerization** – Open Bootcamp (Dec 2022)  
-- 🎓 **Full Stack Web Development with Java** – Egg Corporation (Dec 2021)  
+## 🛠️ Tech Stack
+
+### 🖥️ Back-End  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🎨 Front-End  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧪 Testing  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Kotest](https://img.shields.io/badge/Kotest-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🐳 DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Featured Projects  
+
+- 🧮 [**ms-kafka-stream-tzero**](https://github.com/LeandroArielFontana/ms-kafka-stream-tzero): Stream processing with Spring Boot + Kafka Streams  
+- 💰 [**bff-payment-acceleration**](https://github.com/LeandroArielFontana/bff-payment-acceleration): BFF layer for payment flow management  
+- 🛒 [**grow-store**](https://github.com/LeandroArielFontana/grow-store): Full e-commerce front-end built with React + TypeScript  
+- ☁️ [**weather-app**](https://github.com/LeandroArielFontana/weather-app): Simple weather forecast app using APIs and TypeScript  
+
+---
+
+## 🎓 Certifications  
+- 🧩 **AWS MSK (Amazon Managed Streaming for Kafka)** – *AWS Argentina* (Jul 2025)  
+- 🐳 **Docker & Containerization** – *Open Bootcamp* (Dec 2022)  
+- 💻 **Full Stack Web Development with Java** – *Egg Corporation* (Dec 2021)  
+
+---
+
+<details>
+<summary>📊 <b>GitHub Stats</b></summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeandroArielFontana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroArielFontana&theme=tokyonight&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroArielFontana&theme=tokyonight&hide_border=false&layout=compact" height="160" />
 </div>
+
+</details>
+
+---
+
+<details>
+<summary>🎧 <b>Spotify Listening</b></summary>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=leandroarielfontana&cover_image=true&theme=default&bar_color=514fb5&bar_color_cover=true" />
+</div>
+</details>
 
 ---
 
@@ -64,15 +98,12 @@ I’m passionate about **software architecture** and **DevOps practices**, const
 
 ---
 
-## 🎧 Spotify Listening  
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=leandroarielfontana&cover_image=true&theme=default&bar_color=514fb5&bar_color_cover=true" />
+  <img src="https://komarev.com/ghpvc/?username=LeandroArielFontana&style=flat-square" alt="profile views"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeandroArielFontana&style=flat-square" />
+  <i>“Code is the most precise way to express an idea.”</i>  
 </div>
-
----
