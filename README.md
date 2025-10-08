@@ -52,7 +52,7 @@ Beyond code, I’m a **Chemistry Technician**, football fan ⚽, and love Japane
 
 ## 🚀 Featured Projects  
 
-- 🧮 [**ms-kafka-stream-tzero**](https://github.com/LeandroArielFontana/ms-kafka-stream-tzero): Stream processing with Spring Boot + Kafka Streams  
+- 🧮 [**ms-kafka-stream**](https://github.com/LeandroArielFontana/ms-kafka-stream): Stream processing with Spring Boot + Kafka Streams  
 - 💰 [**bff-payment-acceleration**](https://github.com/LeandroArielFontana/bff-payment-acceleration): BFF layer for payment flow management  
 - 🛒 [**grow-store**](https://github.com/LeandroArielFontana/grow-store): Full e-commerce front-end built with React + TypeScript  
 - ☁️ [**weather-app**](https://github.com/LeandroArielFontana/weather-app): Simple weather forecast app using APIs and TypeScript  
